@@ -2,4 +2,5 @@ Red
 Orange
 Yellow
 Green
+Blue
 That's a rainbow, chump!
